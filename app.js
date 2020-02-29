@@ -76,12 +76,12 @@ const game = () => {
                 updateScore();
                 return;
             } else if (computerChoice === "spock") {
-                winner.textContent = "Computer Wins";
+                winner.textContent = "Player Loose";
                 cScore++;
                 updateScore();
                 return;
             } else {
-                winner.textContent = "Computer Wins";
+                winner.textContent = "Player Loose";
                 cScore++;
                 updateScore();
                 return;
@@ -100,12 +100,12 @@ const game = () => {
                 updateScore();
                 return;
             } else if (computerChoice === "scissors") {
-                winner.textContent = "Computer Wins";
+                winner.textContent = "Player Loose";
                 cScore++;
                 updateScore();
                 return;
             } else {
-                winner.textContent = "Computer Wins";
+                winner.textContent = "Player Loose";
                 cScore++;
                 updateScore();
                 return;
@@ -125,12 +125,12 @@ const game = () => {
                 updateScore();
                 return;
             } else if (computerChoice === "spock") {
-                winner.textContent = "Computer Wins";
+                winner.textContent = "Player Loose";
                 cScore++;
                 updateScore();
                 return;
             } else {
-                winner.textContent = "Computer Wins";
+                winner.textContent = "Player Loose";
                 cScore++;
                 updateScore();
                 return;
@@ -150,12 +150,12 @@ const game = () => {
                 updateScore();
                 return;
             } else if (computerChoice === "scissors") {
-                winner.textContent = "Computer Wins";
+                winner.textContent = "Player Loose";
                 cScore++;
                 updateScore();
                 return;
             } else {
-                winner.textContent = "Computer Wins";
+                winner.textContent = "Player Loose";
                 cScore++;
                 updateScore();
                 return;
@@ -175,12 +175,12 @@ const game = () => {
                 updateScore();
                 return;
             } else if (computerChoice === "lizard") {
-                winner.textContent = "Computer Wins";
+                winner.textContent = "Player Loose";
                 cScore++;
                 updateScore();
                 return;
             } else {
-                winner.textContent = "Computer Wins";
+                winner.textContent = "Player Loose";
                 cScore++;
                 updateScore();
                 return;
